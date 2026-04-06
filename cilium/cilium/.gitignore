@@ -1,0 +1,5 @@
+bin/
+dist/*.o
+dist/*.ll
+dist/*.bc
+*.log

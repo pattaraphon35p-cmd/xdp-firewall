@@ -1,0 +1,5 @@
+# One IPv4 or IPv4 CIDR per line.
+# Lines starting with # are ignored.
+
+203.0.113.10
+198.51.100.0/24
