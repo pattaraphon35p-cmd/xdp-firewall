@@ -1,3 +1,19 @@
+ถ้าเว็บของคุณดับ 1. เกี่ยวกับ vps 2. vpsของคุณต้องมี เน็ตประเทศนอก เยอะ เพราะถ้าเน็ตนอกไม่เยอะมากพอ ก็เป็นสาเหตุที่เว็บดับได้
+Cloudflare rule สําหรับ เปิด captcha
+
+When incoming requests match…
+Field        Operator         Value
+URI Full     does not equal   /dghxfchcgffcghfchfcdhryer5y45r
+
+Then take action…
+Choose action
+>  Non-Interactive Challenge
+Presents a non-interactive challenge that the client's browser must automatically complete.
+
+Select order:
+First
+
+
 sudo apt update
 sudo apt install -y golang clang llvm libbpf-dev libelf-dev make
 
