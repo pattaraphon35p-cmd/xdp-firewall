@@ -1,5 +1,5 @@
 ถ้าเว็บของคุณดับ 1. เกี่ยวกับ vps 2. vpsของคุณต้องมี เน็ตประเทศนอก เยอะ เพราะถ้าเน็ตนอกไม่เยอะมากพอ ก็เป็นสาเหตุที่เว็บดับได้
-Cloudflare rule สําหรับ เปิด captcha
+Cloudflare rule สําหรับ เปิด jschallenge
 
 When incoming requests match…
 Field        Operator         Value
