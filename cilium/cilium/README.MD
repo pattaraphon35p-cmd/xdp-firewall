@@ -2,7 +2,7 @@
 Cloudflare rule สําหรับ เปิด jschallenge
 
 When incoming requests match…
-Field        Operator         Value
+---
 URI Full     does not equal   /dghxfchcgffcghfchfcdhryer5y45r
 
 Then take action…
