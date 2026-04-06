@@ -3,7 +3,9 @@ Cloudflare rule สําหรับ เปิด jschallenge
 
 When incoming requests match…
 ---
-URI Full     does not equal   /dghxfchcgffcghfchfcdhryer5y45r
+หา RULE URI Full     
+แล้ว set does not equal   
+/dghxfchcgffcghfchfcdhryer5y45r
 
 Then take action…
 Choose action
